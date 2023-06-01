@@ -19,6 +19,7 @@ struct ContentView: View {
             Text("Minh Text2")
             Text("LucTextNr2")
             Text("LucTextNr3")
+            Text("LucBranch1")
         }
         .padding()
     }
